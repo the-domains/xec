@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[xec]]></title>
         <description><![CDATA[xec]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 15:47:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 21:03:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Anatal (@anatal_xec). Analog signals digital control. Make analog electronic music and manage and store the settings digitally. Never ever choose between quality and convenience. Amsterdam</p>]]></description>
+            <link>https://twitter.com/anatal_xec</link>
+            <guid isPermaLink="false">17357559-2dae-4761-8d26-481dd5594b64</guid>
+            <pubDate>Mon, 14 Mar 2016 21:03:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://media.nu.nl/m/d66xe29ag09c_std640.jpg/neerzetten-hoofd-in-amsterdam-gefilmd-bewakingscamera.jpg">]]></description>
-            <link>undefined19eebaf4-0b70-4013-b075-c09b9e26cf8d/index.html</link>
+            <link>https://thegrid.ai/xec/19eebaf4-0b70-4013-b075-c09b9e26cf8d/index.html</link>
             <guid isPermaLink="false">19eebaf4-0b70-4013-b075-c09b9e26cf8d</guid>
             <pubDate>Mon, 14 Mar 2016 15:47:53 GMT</pubDate>
         </item>
